@@ -6,11 +6,11 @@ Basically, a theme for  Spicetify based in MidSummer Night theme for VSCode and 
 
 
 <h1>How to Install?</h1>
-<p> 1. Install the folder called "MidSummer-Night" from this repository
-    2. Copy this folder for you Spicity theme folder 
-    3. Open your config-xpui.ini and put current_theme          = MidSummer-Night and color_scheme           = MidSummerNight
-    4. Apply the configurations and and that's it
-</p>
+<p>1. Install the folder called "MidSummer-Night" from this repository</p>
+<p>2. Copy this folder for you Spicity theme folder</p> 
+<p>3. Open your config-xpui.ini and put current_theme          = MidSummer-Night and color_scheme           = MidSummerNight</p>
+<p>4. Apply the configurations and and that's it</p>
+
 
 <h1> Any problem? </h1>
 <p>If you see any problem feel free to try to resolve or make a issue and I will try to resolve. It`s my first time doing same thing like that.
