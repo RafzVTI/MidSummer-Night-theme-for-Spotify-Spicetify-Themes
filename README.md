@@ -13,6 +13,6 @@ Basically, a theme for  Spicetify based in MidSummer Night theme for VSCode and 
 
 
 <h1> Any problem? </h1>
-<p>If you see any problem feel free to try to resolve or make a issue and I will try to resolve. It`s my first time doing same thing like that.
+<p>If you see any problem feel free to try to resolve or make a issue and I will try to resolve. It`s my first time doing samething like that.
 </p>
 
